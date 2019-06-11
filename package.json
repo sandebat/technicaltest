@@ -1,0 +1,24 @@
+{
+  "name": "api-docker",
+  "version": "1.0.0",
+  "description": "API Response for technical test",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandebat/technicaltest.git"
+  },
+  "author": "Sandeep Batra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandebat/technicaltest/issues"
+  },
+  "homepage": "https://github.com/sandebat/technicaltest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
